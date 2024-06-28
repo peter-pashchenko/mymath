@@ -1,4 +1,4 @@
-package mymath
+package course1_12_package_12_4_1
 
 import "math"
 
