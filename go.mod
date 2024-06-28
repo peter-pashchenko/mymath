@@ -1,3 +1,3 @@
-module github.com/peter-pashchenko/mymath/v1.0.0
+module github.com/peter-pashchenko/mymath
 
 go 1.19
